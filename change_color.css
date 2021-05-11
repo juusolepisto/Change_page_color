@@ -15,6 +15,7 @@ body {
 
 .p1 {
     background-color: rgba(245, 245, 245, 0.95);
+    transition: 100ms;
     color: black;
     font-family: 'Courier New', Courier, monospace;
     font-size: medium;
@@ -25,6 +26,7 @@ body {
     right: 50px;
     padding: 5px;
     border-radius: 5px;
+    border: 2px solid black;
      
 }
 

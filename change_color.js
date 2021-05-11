@@ -7,6 +7,6 @@ for(var i = 0; i < input.length; i++){
             blue = document.getElementById("blue").value;
 
         var p1 = document.getElementById("p1");
-        display.style.background = "rgb(" + red + "," + green + "," + blue + ")";
+        p1.style.background = "rgb(" + red + "," + green + "," + blue + ")";
     });
 }

@@ -1,23 +1,20 @@
 body {
     background-image: linear-gradient(to right, rgb(177, 177, 177), rgb(0, 0, 0));
 }
-.Hello {
+.Main {
     background-color: rgba(245, 245, 245, 0.95);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: larger;
     color:black;
     text-align: center;
-    width: 25%;
+    width: 40%;
     border-radius: 10px; 
-    position: fixed;
-    top: 20px;
-    left: 35%;
+    margin: auto;
     
-
 }
 
 .p1 {
-    background-color: var(input);
+    background-color: rgba(245, 245, 245, 0.95);
     color: black;
     font-family: 'Courier New', Courier, monospace;
     font-size: medium;
@@ -58,6 +55,7 @@ body {
     position: fixed;
     top: 390px;
     left: 60px; 
+
 }
 
 .slider3 {
@@ -72,4 +70,5 @@ body {
     position: fixed;
     top: 430px;
     left: 60px; 
+
 }
